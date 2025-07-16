@@ -40,5 +40,3 @@ This project contains a Google Apps Script designed to automate parts of the IT 
 This script is a generalized version of a tool developed during IT admin work. All domains and links are placeholders. Replace them accordingly for your environment.
 
 ---
-
-Let me know if you'd like this in a downloadable `.md` file as well.
